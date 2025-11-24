@@ -1,0 +1,15 @@
+{
+  "initiator": "0x21a1d74bf75776432ffc94163ddb4bffe35b0b78e7ab8fcb7401ebac0ddb32d9",
+  "phase": "init",
+  "currentKey": 0,
+  "contributors": [
+    {
+      "name": "0x21a1d74bf75776432ffc94163ddb4bffe35b0b78e7ab8fcb7401ebac0ddb32d9",
+      "keyNumber": 0,
+      "timestamp": 1764005779477,
+      "attestationHash": "bca635d25291be4dfbc2b59bda96fc4e0516f0f387e0148fdde05005b4e2360f"
+    }
+  ],
+  "circuitName": "identity_with_merkle",
+  "r1csHash": "aacae445b302be54d85268a212a1d231a9b6665693b18a4e794d98636df4fde0"
+}

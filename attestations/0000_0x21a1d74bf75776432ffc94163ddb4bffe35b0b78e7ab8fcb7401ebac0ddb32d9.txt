@@ -1,0 +1,7 @@
+Ceremony Initialization
+Participant: 0x21a1d74bf75776432ffc94163ddb4bffe35b0b78e7ab8fcb7401ebac0ddb32d9
+Key: ceremony_0000.zkey
+Circuit: identity_with_merkle
+R1CS Hash: aacae445b302be54d85268a212a1d231a9b6665693b18a4e794d98636df4fde0
+Attestation Hash: bca635d25291be4dfbc2b59bda96fc4e0516f0f387e0148fdde05005b4e2360f
+Timestamp: 2025-11-24T17:36:19.476Z
