@@ -69,6 +69,15 @@ git pull origin main
 # Create your contribution branch
 # Replace YOUR_ADDRESS with your actual address
 git checkout -b contrib-YOUR_ADDRESS
+
+# Remove the current origin pointing to kynesyslabs
+git remote remove origin
+
+# Add your fork as origin - replace USERNAME with your github username
+git remote add origin https://github.com/USERNAME/zk_ceremony.git
+
+# Verify
+git remote -v
 cd ..
 ```
 
@@ -112,8 +121,13 @@ git push origin contrib-YOUR_ADDRESS
 3. Click "Compare & pull request"
 4. Base: main ← Compare: contrib-YOUR_ADDRESS
 5. Title: "Contribution from <your_address>"
-6. Description: Include your attestation hash from attestations/ file
-7. Create pull request
+```bash
+# Go back into your node directory and find the attestation hash
+cd node
+cat ~/node/zk_ceremony/attestations/000N_YOUR_ADDRESS.txt
+```
+7. Description: Include your attestation hash from attestations/ file 
+8. Create pull request
 
 ### Step 9: Wait for Merge
 
