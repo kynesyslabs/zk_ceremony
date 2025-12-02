@@ -147,6 +147,9 @@ rm -rf zk_ceremony/
 
 # Keep only your attestation file as proof (optional)
 # It was saved in: zk_ceremony/attestations/000N_<your_address>.txt
+
+# Switch back to testnet branch
+git checkout testnet
 ```
 
 ## Verification Commands
