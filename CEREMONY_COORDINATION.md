@@ -58,7 +58,7 @@ and repeat the failed command.
 ### Step 4: Execute the All in One Ceremony Script
 
 ```
-scripts/ceremony-contribute.sh
+scripts/ceremony_contribute.sh
 ```
 
 The script will automatically proceed with the contribution.
