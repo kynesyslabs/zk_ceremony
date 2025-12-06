@@ -1,0 +1,10 @@
+Ceremony Contribution
+Participant: 0x08560420330282fa86dae369a34d9ab49e1e0979fba26abb6326ea6c747e5356
+Key: ceremony_0012.zkey
+Input Key: ceremony_0011.zkey
+Circuit: identity_with_merkle
+Attestation Hash: 96598509be1f5085a8810e5d3929a0e850078098803f1a6f45e0541607f92385
+Timestamp: 2025-12-06T16:23:31.411Z
+
+IMPORTANT: Delete your local copy of this key after passing it to the next contributor!
+This is the "toxic waste" that must be destroyed for security.
