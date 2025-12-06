@@ -41,7 +41,7 @@ The maintainer will:
 ### Step 3: Setup Node Repository
 
 ```bash
-# Make sure you're on the testnet branch of the node repository
+# Make sure you're on the testnet branch of the node repository and the node is STOPPED
 cd /path/to/demos/node
 git checkout testnet
 git pull
@@ -69,6 +69,8 @@ The script will automatically proceed with the contribution.
 - The script will likely ask you to login with GitHub: you can keep the default answers (yes and Https). You will be required to use a browser (i.e. on your main pc) and input a code after logging in with GitHub. This is required to push your PR into the ceremony repository
 
 *NOTE: If the script stops after the above procedure, please restart it and it will proceed to the next step automatically*
+
+- The script will likely ask to install `npx`, this is needed to use the specific node version required by the ceremony
 
 ### Step 5: Restart your node
 
