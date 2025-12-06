@@ -70,7 +70,7 @@ The script will automatically proceed with the contribution.
 
 *NOTE: If the script stops after the above procedure, please restart it and it will proceed to the next step automatically*
 
-- The script will likely ask to install `npx`, this is needed to use the specific node version required by the ceremony
+- The script will likely ask to install `npm` and/or `npx`, this is needed to use the specific node version required by the ceremony
 
 ### Step 5: Restart your node
 
