@@ -1,7 +1,7 @@
 {
   "initiator": "0x21a1d74bf75776432ffc94163ddb4bffe35b0b78e7ab8fcb7401ebac0ddb32d9",
   "phase": "contributing",
-  "currentKey": 16,
+  "currentKey": 17,
   "contributors": [
     {
       "name": "0x21a1d74bf75776432ffc94163ddb4bffe35b0b78e7ab8fcb7401ebac0ddb32d9",
@@ -104,6 +104,12 @@
       "keyNumber": 16,
       "timestamp": 1765042112469,
       "attestationHash": "8fbd4dd4871c82f110114b8041456be6d2ed4715a68f76aac148594f134200c2"
+    },
+    {
+      "name": "0xa73c7c1a0c784958ef6d121d1ae93309765fd33b6e726e265012282c96482dab",
+      "keyNumber": 17,
+      "timestamp": 1765044934393,
+      "attestationHash": "7c93a1470d978ef2043244ee434082c1edcfac0bd61e214b69baf64a96b916e0"
     }
   ],
   "circuitName": "identity_with_merkle",
