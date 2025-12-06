@@ -68,6 +68,8 @@ The script will automatically proceed with the contribution.
 - The script will likely ask for your password: this is to install `gh` which is needed to automate the PR process
 - The script will likely ask you to login with GitHub: you can keep the default answers (yes and Https). You will be required to use a browser (i.e. on your main pc) and input a code after logging in with GitHub. This is required to push your PR into the ceremony repository
 
+*NOTE: If the script stops after the above procedure, please restart it and it will proceed to the next step automatically*
+
 ### Step 5: Restart your node
 
 If the automation script succeeded, you can run your node again using:
