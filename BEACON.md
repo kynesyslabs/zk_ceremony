@@ -16,10 +16,20 @@ The ceremony closes after contribution 19. A public random beacon is applied on 
 - Value: the round's `randomness` field (32 bytes, hex), from `https://api.drand.sh/8990e7a9aaed2ffed73dbd7092123d6f289930540d7651336225dc172e51b2ce/public/6629366`.
 - Iterations: 2^10.
 
+The R1CS and the ptau are not in this repository. To get them:
+
+- R1CS: in a checkout of kynesyslabs/node `stabilisation`, run `bun install` and `bun run zk:compile:merkle` (circom 2.2.2). It writes `src/features/zk/circuits/identity_with_merkle.r1cs`; its sha256 must be the one above.
+- ptau: download `https://circom.info/powersOfTau28_hez_final_14.ptau`; its blake2b (`b2sum`) must be the one above.
+
+Place both files in the root of this repository. The commands write to `out/`, so the published files in `final/` are not overwritten:
+
 ```
-snarkjs zkey beacon keys/ceremony_0019.zkey keys/identity_with_merkle_final.zkey <randomness> 10 -n="drand mainnet round 6629366"
-snarkjs zkey verify identity_with_merkle.r1cs powersOfTau28_hez_final_14.ptau keys/identity_with_merkle_final.zkey
-snarkjs zkey export verificationkey keys/identity_with_merkle_final.zkey keys/verification_key_merkle.json
+mkdir -p out
+snarkjs zkey beacon keys/ceremony_0019.zkey out/identity_with_merkle_final.zkey <randomness> 10 -n="drand mainnet round 6629366"
+snarkjs zkey verify identity_with_merkle.r1cs powersOfTau28_hez_final_14.ptau out/identity_with_merkle_final.zkey
+snarkjs zkey export verificationkey out/identity_with_merkle_final.zkey out/verification_key_merkle.json
+cmp out/identity_with_merkle_final.zkey final/identity_with_merkle_final.zkey
+cmp out/verification_key_merkle.json final/verification_key_merkle.json
 ```
 
-Anyone can repeat these commands and must get the same final key and verification key.
+Anyone can repeat these commands and must get the same final key and verification key: both `cmp` lines print nothing.
