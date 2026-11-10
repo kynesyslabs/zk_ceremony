@@ -1,0 +1,139 @@
+[INFO]  snarkJS: Reading r1cs
+[INFO]  snarkJS: Reading tauG1
+[INFO]  snarkJS: Reading tauG2
+[INFO]  snarkJS: Reading alphatauG1
+[INFO]  snarkJS: Reading betatauG1
+[INFO]  snarkJS: Circuit hash: 
+		e09dee65 f54bf53e 67554366 0e38fd64
+		e8061615 810b167b 8a06a075 1310eb58
+		2c36b387 880d735e 5d90bf24 023a4b29
+		251c20eb 2757ac56 1f98f419 d31c3321
+[INFO]  snarkJS: Circuit Hash: 
+		e09dee65 f54bf53e 67554366 0e38fd64
+		e8061615 810b167b 8a06a075 1310eb58
+		2c36b387 880d735e 5d90bf24 023a4b29
+		251c20eb 2757ac56 1f98f419 d31c3321
+[INFO]  snarkJS: -------------------------
+[INFO]  snarkJS: contribution #20 drand mainnet round 6629366:
+		843cdc35 f45a93f5 0ba04fb8 19fb5556
+		f9e6a16c 44594df1 a2264a31 145fe7c6
+		a4b8d41d 2943505e e0f825d3 bf1b4486
+		1728af53 d2dcb049 9ecc24e6 535b5099
+[INFO]  snarkJS: Beacon generator: f8c94d61e783316938c0b7f811272a919d9b8db030fb93edb1d4e3edfacb808d
+[INFO]  snarkJS: Beacon iterations Exp: 10
+[INFO]  snarkJS: -------------------------
+[INFO]  snarkJS: contribution #19 0x0d77122d8e4353ab1e493c448e60019d631848e1f6a7bc66d8fbf3984406ce:
+		c8b85dcb b6f9f33b 7e8188e0 4889d6e6
+		2f183232 ada371db f3187c6c 090ec843
+		3be3cde6 de7299dd 1781280d e0336189
+		0b0d1cc4 c0714ae2 8a173d02 6a016294
+[INFO]  snarkJS: -------------------------
+[INFO]  snarkJS: contribution #18 0xf5abbb44e3ef6e0ca3318f196dd79e096e96cddb84671bf53a73b341cd07d2:
+		26f859dc ee11eb79 fb0c719d 57e57a67
+		55d7e7f8 109010ac 410eebb8 d2a54c99
+		ac165733 6dc83994 657b216f 881ca06a
+		d30aa78e 28422800 9e023228 35b6b8e4
+[INFO]  snarkJS: -------------------------
+[INFO]  snarkJS: contribution #17 0xa73c7c1a0c784958ef6d121d1ae93309765fd33b6e726e265012282c96482d:
+		419482eb 2d2e0a95 78ada8e8 36a4e869
+		e305746f 177da6f7 16174d1f a47c3847
+		227efb43 c6c11384 50de8a8f f40f8db3
+		fcf2c191 1cf69ae6 a8db108d 08c6b79c
+[INFO]  snarkJS: -------------------------
+[INFO]  snarkJS: contribution #16 0xecd0475053b697ee26dc4b8d7136f8fe543754b10ee6d3a5580843b29f3d86:
+		a3c315eb 64277bb9 259aa32f 6c1c3856
+		021e4459 18912d4c a9699390 808a0ab9
+		2de6fd3d 3428dc47 434695d4 91375cf4
+		08a30da3 47b1e95d 54ef0c8f f551c835
+[INFO]  snarkJS: -------------------------
+[INFO]  snarkJS: contribution #15 0xb3dd2a9f66cc858a565e0c0dd895a0479d8f8474d446fa30bcf4fff5f2a087:
+		7ea1099b affa4fd9 60a067dc a445ce04
+		4d1be356 88192b8d c1c311bd 923063e7
+		b040fcf9 46c68209 3e7e28ef 52a07237
+		b85c2335 53cf8a6f d2b38d03 3e3c041f
+[INFO]  snarkJS: -------------------------
+[INFO]  snarkJS: contribution #14 0xe32727f371f69f67a27b9ce671054117c1ad74932c64311b1b23739709b3d9:
+		37a0d32f 47fb08a1 1fa20cdc 2ea73d81
+		93856bcb d1b7140f 2377a959 33e33257
+		75726838 eb4d9acf cf339a58 e632b09d
+		f4747718 84f6776e aee6afab 8b293df5
+[INFO]  snarkJS: -------------------------
+[INFO]  snarkJS: contribution #13 0x4b2817e5a0e71d0a9c2b53f71987df5b7b937d5840370ccf0de21c5ee35199:
+		b217afec 08c277f4 6057fb0b 8ba7271f
+		7d6718b2 760ac2bd 1644e909 c72e5af7
+		73e79eaa 751bd8e7 199c2fc4 5afef126
+		a0ca5ac8 1e368167 c6b6b1cf 3b227339
+[INFO]  snarkJS: -------------------------
+[INFO]  snarkJS: contribution #12 0x08560420330282fa86dae369a34d9ab49e1e0979fba26abb6326ea6c747e53:
+		a33b64bf 21a80f31 ece6d719 8b677d7a
+		277b652b bece3a43 fdc233eb 250f41ea
+		3cc4d27f 5fe5c506 7de9bec4 175385e0
+		13eb7251 b6c77dee b5311541 91d95f17
+[INFO]  snarkJS: -------------------------
+[INFO]  snarkJS: contribution #11 0xd9409b0d6106e5358b29a56bd4957a1f31fa1a192f00b85cb02709170447f4:
+		095ecb00 510de042 c12c55e1 a2735c56
+		d98df1c1 85c396c8 fe9d6585 d5a497a8
+		00c1fd65 c5681499 347db34f c39e13f1
+		bd195543 f013dd5f a985f203 6412c6a1
+[INFO]  snarkJS: -------------------------
+[INFO]  snarkJS: contribution #10 0xc96b013809002213f871d6cbd884fb6fe5c4b9eaf9ad0db3d3cccd93c42993:
+		e8a0d204 d771851d db152df6 dc9e559b
+		2e2275ec 2679b303 9c15117e f16e3ff9
+		27bc3b7f 857628b2 2230cd0d 6f04cf11
+		37baa580 7e7bfc14 17691c8f 8b3f2f91
+[INFO]  snarkJS: -------------------------
+[INFO]  snarkJS: contribution #9 0x387bbc1588ffeb62fcd659b4b6dfda6d28f518386e079e36740512d24be399:
+		ae3fc7a8 9c67e4d6 33484531 96cbb721
+		8249e41b adb4dc74 73305adb 9cd99b04
+		b1fab778 bac1cc56 c15d2cd8 094e8a3c
+		07857da2 300d7c59 89f82aea 13d29aba
+[INFO]  snarkJS: -------------------------
+[INFO]  snarkJS: contribution #8 0x10ab1afcd006aa98fc72c9981efce3bf95426009415e55e5a200402bbb7ad0:
+		5dbf2bee abf970a3 3daedf71 d4180e90
+		6422e142 9aa2a1d2 f7863284 58437f21
+		82ce7930 0ba719dc 7be77efb 8e788bea
+		7f1d4a47 79bfeb54 3ce6d70c a287ff23
+[INFO]  snarkJS: -------------------------
+[INFO]  snarkJS: contribution #7 0x44db61a6775e7438d3e6790845938cb01c03a573c120f3a6e5fd53cfa6efca:
+		3f63039d 2a3079ba 5c05a330 30869664
+		3486e6fc df1172c0 d6502683 20193ec8
+		9b5b37dc 88287d71 2ea0bb1f f8922197
+		d52ac0e6 11f9762c 151006be 5b5703ee
+[INFO]  snarkJS: -------------------------
+[INFO]  snarkJS: contribution #6 0x6d06e0cbf2c245aa86f4b7416cb999e434ffc66d92fa40b67f721712592b4a:
+		03abaf43 eff592b5 706b9652 9c13088c
+		a528bb4f 32956677 1d4456b7 cbcb154f
+		5469913f b27742b6 16686e7e 572f42d0
+		1e345082 a837523e 28164bb5 987cfea3
+[INFO]  snarkJS: -------------------------
+[INFO]  snarkJS: contribution #5 0x52a6d2b2ac8228f665d3694dba1dbdfe3544994792b465c292a08cf524c786:
+		2b6a77e9 85546bef 39b79510 f0db9fd4
+		67f7a2f8 d159cfaa 5068f704 1b8b6264
+		555d3f22 1c803f81 0e59b6c7 c9743553
+		cb2f7c8a 53a3fc31 4d9042b6 68477249
+[INFO]  snarkJS: -------------------------
+[INFO]  snarkJS: contribution #4 0x6120898bd711d52a5f7fb88bae2cef10b334d33e8835e7a34f2cdeb7017e00:
+		d686ca41 d22661fd 3297fb87 b1c203b2
+		ed597208 1a281f7c f6ce2ecb 1bfc9180
+		a0a381de 9241bae5 ac056b3a 2fb27822
+		f33be858 f85ba289 1b3df4f3 d827afa9
+[INFO]  snarkJS: -------------------------
+[INFO]  snarkJS: contribution #3 0x546de1d8803e7360ed9a07ed56b410e1bda1291d5403b6158a8c34abb4cef6:
+		324276a2 5997c698 d31319bb 4b249f48
+		ad4793e0 965e4c98 81b9288b f44d436a
+		c18cb32d 7b402803 0c955f1c d7b11f4d
+		835cd81c efb596e6 01a8298b 55694b5d
+[INFO]  snarkJS: -------------------------
+[INFO]  snarkJS: contribution #2 0x05c9306144e9c508f53053eea02f5199e7c7890df37359ce2b93b97c5b53dd:
+		2991a5cd f27d32ca 185796e2 77b4117a
+		b24e4400 ba8ab2c9 aa3d89fc 12e732d9
+		79a7c247 c5b2ce5c ff316c5f 2210dcd8
+		85074f7f 9714d05a 0c850aab f8c8699f
+[INFO]  snarkJS: -------------------------
+[INFO]  snarkJS: contribution #1 0xb9d2e3ad4eeba46b2d206d9e9d4ea80692c5caa7f50d04572874007c20b5ed:
+		3b324d40 a33aa139 bc42ce45 2d4f2c52
+		92847b10 5caf0e67 95d3270e 064840ed
+		cbf7a7db 803eb49c 47dd8f0c 4d77cb83
+		9cf244c2 c879efb9 2a704649 859fbad8
+[INFO]  snarkJS: -------------------------
+[INFO]  snarkJS: ZKey Ok!
